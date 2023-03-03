@@ -1,0 +1,70 @@
+
+{
+  "idr": 17273547,
+  "depassement": false,
+  "nb_dispositifs": 44,
+  "dispositifs": [
+    {
+      "numero": 68652,
+      "nom": "Amortisseur électricité",
+      "resume": "<p>L'amortisseur d'électricité prend la forme d'une réduction de prix qui sera automatiquement et directement décompté de la facture d’électricité de l’entreprise.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "2.02",
+      "generation": "2022-11-24",
+      "validation": "2023-03-02",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aGUvIHxkwmxD4y8XJzVH/ddfip/amortisseur-electricite.html",
+      "aps": false,
+      "domaines": [
+        893,
+        818
+      ],
+      "moyens": [
+        837
+      ]
+    },
+    {
+      "numero": 69357,
+      "nom": "Investissements d’écoconception pour améliorer la performance environnementale",
+      "resume": "<p>L’ADEME contribue à la production et à la commercialisation d’un nouveau produit ou service écoconçu.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "1.04",
+      "generation": "2023-03-01",
+      "validation": "2023-03-01",
+      "nouveau": true,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aTV_IHxkwmxD4y8XJzVH/ademe/investissements-d-ecoconception-pour-ameliorer-la-performance-environnementale.html",
+      "aps": false,
+      "domaines": [
+        802,
+        807,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 41272,
+      "nom": "Déduction exceptionnelle : véhicules lourds utilisant des énergies propres",
+      "resume": "<p>Les entreprises qui acquièrent un véhicule lourd neuf, peuvent pratiquer une déduction exceptionnelle (dite &quot;suramortissement&quot;) sur leur résultat imposable.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "4.38",
+      "generation": "2016-01-12",
+      "validation": "2023-02-22",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/QScvIHxkwmxD4y8XJzVH/ddfip/deduction-exceptionnelle-vehicules-lourds-utilisant-des-energies-propres.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        845
+      ]
+    }
+   }
